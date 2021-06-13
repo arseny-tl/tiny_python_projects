@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!python3
 """Create Workout Of (the) Day (WOD)"""
 
 import argparse

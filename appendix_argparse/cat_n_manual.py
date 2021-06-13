@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!python3
 """Python version of `cat -n`, manually checking file argument"""
 
 import argparse

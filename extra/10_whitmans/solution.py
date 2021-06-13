@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!python3
 """ Probabalistically subset FASTA files """
 
 import argparse

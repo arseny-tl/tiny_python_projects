@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!python3
 """
 Author:  Ken Youens-Clark <kyclark@gmail.com>
 Purpose: Say hello

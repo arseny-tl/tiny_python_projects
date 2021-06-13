@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!python3
 """Password maker, https://xkcd.com/936/"""
 
 import argparse

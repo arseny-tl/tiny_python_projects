@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!python3
 """ Interactive Tic-Tac-Toe using TypedDict """
 
 from typing import List, Optional, TypedDict

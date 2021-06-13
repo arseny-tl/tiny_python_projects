@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!python3
 """
 Author : Ken Youens-Clark <kyclark@gmail.com>
 Purpose: Python program to write a Python program
@@ -97,7 +97,7 @@ def body(args: Args) -> str:
 
     today = str(date.today())
 
-    return f"""#!/usr/bin/env python3
+    return f"""#!python3
 \"\"\"
 Author : {args.name}{' <' + args.email + '>' if args.email else ''}
 Date   : {today}

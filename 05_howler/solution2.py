@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!python3
 """Low-memory Howler"""
 
 import argparse

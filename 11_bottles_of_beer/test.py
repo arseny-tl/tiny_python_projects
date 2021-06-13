@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!python3
 """tests for bottles.py"""
 
 import hashlib

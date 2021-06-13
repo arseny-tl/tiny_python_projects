@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!python3
 """tests for moog.py"""
 
 import os

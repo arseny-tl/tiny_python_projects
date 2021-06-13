@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!python3
 """tests for howler.py"""
 
 import os
