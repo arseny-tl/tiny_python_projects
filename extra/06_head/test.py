@@ -7,7 +7,7 @@ import re
 import string
 from subprocess import getstatusoutput
 
-prg = './head.py'
+prg = 'head.py'
 sonnet = './inputs/sonnet-29.txt'
 bustle = './inputs/the-bustle.txt'
 gettysburg = './inputs/gettysburg.txt'

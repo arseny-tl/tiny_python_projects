@@ -7,7 +7,7 @@ import re
 import string
 from subprocess import getstatusoutput
 
-prg = './password.py'
+prg = 'password.py'
 words = '../inputs/words.txt'
 
 

@@ -5,7 +5,7 @@ import os
 import re
 from subprocess import getstatusoutput, getoutput
 
-prg = './gematria.py'
+prg = 'gematria.py'
 spiders = '../inputs/spiders.txt'
 fox = '../inputs/fox.txt'
 sonnet = '../inputs/sonnet-29.txt'

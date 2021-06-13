@@ -12,7 +12,7 @@ from numpy import mean
 from itertools import chain
 from shutil import rmtree
 
-prg = './sampler.py'
+prg = 'sampler.py'
 n1k = './n1k.fa'
 n10k = './n10k.fa'
 n100k = './n100k.fa'

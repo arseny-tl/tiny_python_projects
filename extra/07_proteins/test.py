@@ -7,7 +7,7 @@ import re
 import string
 import random
 
-prg = './translate.py'
+prg = 'translate.py'
 dna = 'gaactacaccgttctcctggt'
 rna = 'UGGCCAUGGCGCCCAGAACUGAGAUCAAUAGUACCCGUAUUAACGGGUGAA'
 

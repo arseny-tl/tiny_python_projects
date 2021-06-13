@@ -7,7 +7,7 @@ import re
 import string
 from subprocess import getstatusoutput, getoutput
 
-prg = './dna.py'
+prg = 'dna.py'
 
 
 # --------------------------------------------------

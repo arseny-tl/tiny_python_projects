@@ -7,7 +7,7 @@ import re
 import string
 from subprocess import getstatusoutput
 
-prg = './wod.py'
+prg = 'wod.py'
 input1 = 'inputs/exercises.csv'
 input2 = 'inputs/silly-exercises.csv'
 

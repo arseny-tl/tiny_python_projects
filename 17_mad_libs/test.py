@@ -7,7 +7,7 @@ import random
 import string
 from subprocess import getstatusoutput
 
-prg = './mad.py'
+prg = 'mad.py'
 no_blanks = 'inputs/no_blanks.txt'
 fox = 'inputs/fox.txt'
 hlp = 'inputs/help.txt'

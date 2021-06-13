@@ -11,7 +11,7 @@ from Bio.SeqUtils import GC
 from numpy import mean
 from itertools import chain
 
-prg = './moog.py'
+prg = 'moog.py'
 
 
 # --------------------------------------------------

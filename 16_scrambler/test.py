@@ -5,7 +5,7 @@ import os
 import re
 from subprocess import getstatusoutput, getoutput
 
-prg = './scrambler.py'
+prg = 'scrambler.py'
 fox = '../inputs/fox.txt'
 bustle = '../inputs/the-bustle.txt'
 spiders = '../inputs/spiders.txt'

@@ -8,7 +8,7 @@ import string
 import random
 from shutil import rmtree
 
-prg = './transcribe.py'
+prg = 'transcribe.py'
 input1 = './inputs/input1.txt'
 input2 = './inputs/input2.txt'
 

@@ -5,7 +5,7 @@ import os
 import re
 from subprocess import getstatusoutput, getoutput
 
-prg = './friar.py'
+prg = 'friar.py'
 
 
 # --------------------------------------------------

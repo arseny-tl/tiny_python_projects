@@ -7,7 +7,7 @@ import random
 import re
 import string
 
-prg = './tictactoe.py'
+prg = 'tictactoe.py'
 
 
 # --------------------------------------------------
