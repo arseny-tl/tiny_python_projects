@@ -61,7 +61,8 @@ def main():
     else:
         items[-1] = 'and ' + items[-1]
         if args.no_oxford_comma:
-            result = separator.join(items[:len(items) - 1]) + ' ' + items[len(items) - 1]
+            result = separator.join(
+                items[:len(items) - 1]) + ' ' + items[len(items) - 1]
         else:
             result = separator.join(items)
 
